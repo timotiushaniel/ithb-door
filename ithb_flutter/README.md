@@ -1,6 +1,6 @@
 # ithb_flutter
 
-A new Flutter project.
+ITHB Door is a mobile application for job seeker made by Flutter.
 
 ## Getting Started
 
